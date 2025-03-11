@@ -1,6 +1,7 @@
 <img src="https://detomaso-automobili.com/cdn/shop/files/p72_slider_01.jpg?v=1701996921" 
      alt="De Tomaso P72" >
 
+<img src="https://media.giphy.com/media/bfyAhSvvhDd8A/giphy.gif?cid=790b7611cfos04whuvntaq6xkg2hqypmiritzk2kpmujjrdr&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400">
 
  <!--
  **SpiNoice01/SpiNoice01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
