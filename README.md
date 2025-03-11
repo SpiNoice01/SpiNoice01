@@ -1,5 +1,3 @@
-https://detomaso-automobili.com/cdn/shop/files/p72_slider_01.jpg?v=1701996921&width=1600
-
 <img src="https://detomaso-automobili.com/cdn/shop/files/p72_slider_01.jpg?v=1701996921" >
 
  <!--
