@@ -1,4 +1,7 @@
-<img src="https://detomaso-automobili.com/cdn/shop/files/p72_slider_01.jpg?v=1701996921" >
+<img src="https://detomaso-automobili.com/cdn/shop/files/p72_slider_01.jpg?v=1701996921" 
+     alt="De Tomaso P72" 
+     style="width:100%; max-width:600px; mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 70%, rgba(0,0,0,0)); -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 70%, rgba(0,0,0,0));">
+
 
  <!--
  **SpiNoice01/SpiNoice01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
